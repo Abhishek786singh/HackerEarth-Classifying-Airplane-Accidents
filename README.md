@@ -11,3 +11,18 @@
  + Sklearn
  
  ![air_1](images/air_1.png)
+ 
+  
+ ![air_2](images/air_2.png)
+
+
+
+ 
+ ![air_3](images/air_3.png)
+ 
+ 
+ 
+ 
+ 
+ 
+ # Connect with -  https://www.linkedin.com/in/abhishek-singh-771291170/
